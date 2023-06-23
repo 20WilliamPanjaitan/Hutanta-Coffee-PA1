@@ -1,0 +1,11 @@
+.top-navm {
+  position: fixed;
+  width: 100%;
+  padding: 10px 10px 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  transition: top 0.75s ease-in;
+  background-color: #da0d88;
+}
